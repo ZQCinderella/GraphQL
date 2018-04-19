@@ -1,0 +1,8 @@
+.DS_Store
+.DS_Store/
+.idea/
+dist/
+example/
+node_modules/
+.gitignore
+.npmrc
